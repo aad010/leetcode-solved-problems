@@ -13,7 +13,7 @@ Implement the <code style="color : gray">NumArray</code> class:
   
 **Example 1:**
 
-  **Input**  
+  &nbsp; **Input**  
     &nbsp; ["NumArray", "sumRange", "sumRange", "sumRange"]  
     &nbsp; [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]  
   **Output**  
