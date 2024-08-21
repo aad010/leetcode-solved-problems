@@ -1,3 +1,5 @@
+##Hello
+
 Given an integer array nums, handle multiple queries of the following type:
 
 Calculate the sum of the elements of nums between indices left and right inclusive where left <= right.
