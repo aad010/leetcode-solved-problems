@@ -1,5 +1,5 @@
 
-# (268. Missing Number)[https://leetcode.com/problems/missing-number/] (Easy)
+# [268. Missing Number](https://leetcode.com/problems/missing-number/) (Easy)
 
 Given an array <code style="color : name_color">nums</code> containing <code style="color : name_color">n</code> distinct numbers in the range <code style="color : name_color">[0,n]</code>, return *the only number in the range that is missing from the array.*
 
