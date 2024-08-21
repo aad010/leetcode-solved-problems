@@ -1,3 +1,1 @@
-# 303 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) 
-
-## + text in green
+# 303 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) (Easy)
