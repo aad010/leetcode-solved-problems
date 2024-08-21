@@ -19,5 +19,5 @@ Given an integer array nums, return true if any value appears at least twice in 
  
 
 **Constraints:**
-* 1 <= nums.length <= 105
-* -109 <= nums[i] <= 109
+* <code style="color : gray">text</code>1 <= nums.length <= 105</code>
+* <code style="color : gray">text</code>-109 <= nums[i] <= 109</code>
