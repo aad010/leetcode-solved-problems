@@ -14,16 +14,16 @@ Implement the <code style="color : gray">NumArray</code> class:
 **Example 1:**
 
   &nbsp; **Input**  
-    &nbsp; ["NumArray", "sumRange", "sumRange", "sumRange"]  
-    &nbsp; [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]  
+    &nbsp;&nbsp; ["NumArray", "sumRange", "sumRange", "sumRange"]  
+    &nbsp;&nbsp; [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]  
   **Output**  
-    &nbsp; [null, 1, -1, -3]
+    &nbsp;&nbsp; [null, 1, -1, -3]
 
   **Explanation**   
-    &nbsp; NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);  
-    &nbsp; numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1  
-    &nbsp; numArray.sumRange(2, 5); // return 3 + (-5) + 2 + (-1) = -1  
-    &nbsp; numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3  
+    &nbsp;&nbsp; NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);  
+    &nbsp;&nbsp; numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1  
+    &nbsp;&nbsp; numArray.sumRange(2, 5); // return 3 + (-5) + 2 + (-1) = -1  
+    &nbsp;&nbsp; numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3  
  
 
 **Constraints:**  
