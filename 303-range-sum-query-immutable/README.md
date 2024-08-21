@@ -1,4 +1,4 @@
-##Hello
+#Hello
 
 Given an integer array nums, handle multiple queries of the following type:
 
